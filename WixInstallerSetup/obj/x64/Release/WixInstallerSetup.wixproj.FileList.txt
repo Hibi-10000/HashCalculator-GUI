@@ -1,7 +1,0 @@
-obj\x64\Release\NormalUI.wixobj
-obj\x64\Release\Product.wixobj
-C:\Users\hibi_\Google ドライブ\Program\VisualStudio\source\repos\WixInstallerSetup\bin\x64\Release\HashCalculator-Setup.msi
-C:\Users\hibi_\Google ドライブ\Program\VisualStudio\source\repos\WixInstallerSetup\bin\x64\Release\HashCalculator-Setup.wixpdb
-obj\x64\Release\WixInstallerSetup.wixproj.BindContentsFileListnull.txt
-obj\x64\Release\WixInstallerSetup.wixproj.BindOutputsFileListnull.txt
-obj\x64\Release\WixInstallerSetup.wixproj.BindBuiltOutputsFileListnull.txt

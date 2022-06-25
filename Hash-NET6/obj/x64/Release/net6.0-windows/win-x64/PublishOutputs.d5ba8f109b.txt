@@ -1,2 +1,0 @@
-C:\Users\hibi_\Google ドライブ\Program\VisualStudio\source\repos\Hash\Hash-NET6\bin\x64\Release\net6.0-windows\publish\win-x64\Hash-NET6.pdb
-C:\Users\hibi_\Google ドライブ\Program\VisualStudio\source\repos\Hash\Hash-NET6\bin\x64\Release\net6.0-windows\publish\win-x64\Hash-NET6.exe

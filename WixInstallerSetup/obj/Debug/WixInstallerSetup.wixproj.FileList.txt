@@ -1,7 +1,0 @@
-C:\Users\hibi_\Google ドライブ\Program\VisualStudio\source\repos\Hash\WixInstallerSetup\bin\Debug\ja-jp\HashCalculator-Setup.msi
-C:\Users\hibi_\Google ドライブ\Program\VisualStudio\source\repos\Hash\WixInstallerSetup\bin\Debug\ja-jp\HashCalculator-Setup.wixpdb
-obj\Debug\NormalUI.wixobj
-obj\Debug\Product.wixobj
-obj\Debug\WixInstallerSetup.wixproj.BindContentsFileListja-jp.txt
-obj\Debug\WixInstallerSetup.wixproj.BindOutputsFileListja-jp.txt
-obj\Debug\WixInstallerSetup.wixproj.BindBuiltOutputsFileListja-jp.txt
